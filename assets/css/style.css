@@ -11,20 +11,20 @@ body {
 header {
     padding: 1vm;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
+    background-color: #0072bb;
     color: #ffffff;
 
 }
 
 header h1 {
-    display: inline-block;
-    font-size: 48px;
+    margin-right: 20vm;
+    font-size: 3vw;
     text-decoration: none;
 }
 
 h1 span {
     color: #d30505;
-    font-size: 4vm;
+    font-size: 3vw;
 }
 /*Header Style End*/
 
@@ -33,7 +33,7 @@ h1 span {
     margin-left: 5px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: 3vw;
     color: #ffffff;
     text-decoration: none;
 }
@@ -41,7 +41,7 @@ h1 span {
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
-    font-size: 1vm;
+    font-size: 2vw;
 }
 
 a {
@@ -50,11 +50,11 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 2vw;
 }
 /* Hero Style Start*/
 .hero {
-    height: 800px;
+    height: 400px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/hero.jpg");
@@ -74,7 +74,7 @@ p {
 }
 
 /* Search Engine Optimization Style Start */
-.search-engine-optimization {
+.first-triple-row {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -83,13 +83,13 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.first-triple-row img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+.first-triple-row h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 1vm;
 }
 /* Search Engine Optimization Style End */
 .online-reputation-management {
@@ -107,7 +107,7 @@ p {
 
 .online-reputation-management h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 1vw;
 }
 /* Online Reputation Style End */
 .social-media-marketing {
@@ -125,7 +125,7 @@ p {
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 1vw;
 }
 /* Social Media Marketing Style End */
 
@@ -197,7 +197,7 @@ footer {
 }
 
 footer h2 {
-    font-size: 20px;
+    font-size: 1.5vw;
 }
 /* Footer End*/
 
@@ -213,7 +213,7 @@ footer h2 {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 1vw;
   }
   
   .topnav a:hover {
@@ -223,7 +223,7 @@ footer h2 {
   
   .topnav a.active {
     background-color: #1f2020;
-    color: rgb(27, 12, 238);
+    color: #d30505;
   }
   
   .topnav .icon {
