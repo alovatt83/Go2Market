@@ -24,7 +24,7 @@ header h1 {
 
 h1 span {
     color: #d30505;
-    font-size: 2vm;
+    font-size: 4vm;
 }
 /*Header Style End*/
 
@@ -42,15 +42,6 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
     font-size: 1vm;
-}
-
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/background.jpg");
-    background-size: cover;
-    background-position: center;
 }
 
 a {
